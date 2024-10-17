@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60560488809",
+    "project_id": "babysit-f347e",
+    "storage_bucket": "babysit-f347e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60560488809:android:764da2250b251c755b65f8",
+        "android_client_info": {
+          "package_name": "com.applab.babysit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArEi8OGt_lNpemWbKXvzNQf-G0d78t90A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
